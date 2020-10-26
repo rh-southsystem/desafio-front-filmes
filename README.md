@@ -1,14 +1,24 @@
 # Prova Front UI
-- Criar um site que utilize a API: https://swapi.co/
+- Criar uma aplicação web que utilize os endpoints disponibilizados pela API
+https://swapi.dev.
 
-Esse site deverá listar os filmes e apresentar os seus respectivos detalhes.
-Lembre-se que você será avaliado não apenas em relação ao código, mas também em questões como: UI, UX, organização do projeto e maturidade para ir para produção.
-#### Premissas:
-- Obrigatória a utilização de Angular ou React
-- Realização de teste unitário
-- Utilização de GIT com um repositório público
-- Read-me (Como rodar)
+Serão avaliados critérios como organização do código, padrões e boas práticas, UI e UX
+e maturidade para ir para produção.
+Requisitos mínimos:
 
-Obs:
-- Sinta-se livre para utilizar biblioteca de terceiros.
-- Não é necessário utilizar todos os detalhes disponíveis na API.
+- Testes unitários
+- Versionamento em repositório público (Github, Gitlab).
+- Instruções para rodar o projeto (README).
+- Componentes reutilizáveis.
+- Aplicação responsiva.
+
+###Diferenciais:
+
+- Testes e2e.
+- Deploy da aplicação.
+- BFF (REST ou GraphQL).
+- Animações.
+- Acessibilidade.  
+
+A prova pode ser feita no framework de sua escolha, porém tenha preferência pela
+utilização o React.
