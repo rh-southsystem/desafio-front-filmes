@@ -12,7 +12,7 @@ Requisitos mínimos:
 - Componentes reutilizáveis.
 - Aplicação responsiva.
 
-###Diferenciais:
+### Diferenciais:
 
 - Testes e2e.
 - Deploy da aplicação.
